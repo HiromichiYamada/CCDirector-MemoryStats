@@ -1,4 +1,5 @@
 CCDirector-MemoryStats
 ======================
 
-show the memory statistics with cocos2d CCDirector showStats
+Category of cocos2d CCDirector to show the memory statistics
+
