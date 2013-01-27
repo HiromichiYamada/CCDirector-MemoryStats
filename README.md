@@ -2,6 +2,8 @@
 
 Category of cocos2d CCDirector to show the memory statistics
 
+![CCDirector-MemoryStats Screenshot](https://raw.github.com/HiromichiYamada/CCDirector-MemoryStats/master/screenshot.png)
+
 ## Acknowledgments
 
 ### Original codes are written by Halt
